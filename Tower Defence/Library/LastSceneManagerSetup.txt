@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/kevin/Roll-a-Ball/Assets/Scenes/miniGame.unity
+  isLoaded: 1
+  isActive: 1
